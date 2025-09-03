@@ -1,0 +1,15 @@
+# Environments
+venv/
+
+# Django #
+_pycache_
+__pycache__
+
+# Distribution / packaging
+.Python build/
+
+# Visual Studio Code #
+vscode/*
+.vscode/*
+
+
